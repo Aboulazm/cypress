@@ -1,0 +1,14 @@
+{
+    "validCheckout": {
+      "firstName": "Omar",
+      "lastName": "Aboulazm",
+      "zip": "12345"
+    },
+    "invalidCheckout": {
+      "firstName": "",
+      "lastName": "",
+      "zip": ""
+    }
+    
+
+  }
